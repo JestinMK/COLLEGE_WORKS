@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(99,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(100,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(126,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(127,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(154,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(155,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(183,16): warning C4101: 'amount': unreferenced local variable
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(182,28): warning C4101: 'accnum': unreferenced local variable
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(246,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(265,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(254,28): warning C4101: 'accnum': unreferenced local variable
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(289,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(275,28): warning C4101: 'accnum': unreferenced local variable
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(298,13): warning C4101: 'accountNumber': unreferenced local variable
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(355,13): warning C4551: function call missing argument list
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(308): warning C4715: 'Account::findAccount': not all control paths return a value
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(218): warning C4715: 'Account::getIndexForDepositAndWithdraw': not all control paths return a value
+C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Source.cpp(206): warning C4715: 'Account::getIndexForAdd': not all control paths return a value
+  BANKSYSTEM_JESTIN_KIVAN_NAIMATH.vcxproj -> C:\Users\jjestinm\Desktop\ISI\DO2 C++\BANKSYSTEM_JESTIN_KIVAN_NAIMATH\Debug\BANKSYSTEM_JESTIN_KIVAN_NAIMATH.exe
