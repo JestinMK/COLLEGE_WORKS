@@ -1,0 +1,42 @@
+/*
+.maincontent {
+    width: 100%;
+    float: left;
+    padding: 23px 7px 23px 0px;
+*/
+
+
+
+.maincontent {
+    width: 100%;
+    float: left;
+    padding: 23px 7px 23px 0px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.left-content {
+    width: 23%;
+    float: left;
+}
+
+.right-content {
+    width: 75%;
+    float: right;
+}
+
+.right-content {
+    width: 100%;
+    float: right;
+}
+
+.right-content h2 {
+    font-size: 38px;
+}
+form{
+    margin: auto;
+    width: 50%;
+}

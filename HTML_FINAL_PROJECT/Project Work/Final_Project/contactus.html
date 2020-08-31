@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width">
+    <title>Incredible India</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html"><img src="assets/images/logo.png" alt="">
+                <h2>INCREDIBLE</h2>
+                <h2>INDIA</h2>
+                <p>Tourism Guide</p>
+            </a>
+        </div>
+        <nav class="topnav" id="myTopnav">
+            <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()"><img src="assets/images/navbar.png" alt=""></a>
+
+            <ul class="navigation-menu">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="aboutus.html">About Us</a>
+                </li>
+                <li>
+                    <a href="#">Places <img class="droparrow" src="assets/images/downarrow.png" alt=""></a>
+                    <ul>
+                        <li><a href="punjab.html">Punjab</a></li>
+                        <li><a href="gujrat.html">Gujrat</a></li>
+                        <li><a href="kerala.html">Kerala</a></li>
+                        <li><a href="rajasthan.html">Rajasthan</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="contactus.html">Contact</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="contact-Us">
+            <section>
+                <h1>Contact us at given details</h1>
+
+                <h4>Email:</h4>
+                <p><a href="mailto:india@isi-international.com" target="_top">india@isi-international.com</a></p>
+                <h4>Phone:</h4>
+                <p><a href="tel:1-438-334-2426">1-438-334-2426</a></p>
+                <h4>Address:</h4>
+                <p>2100 Boulevard de Maisonneuve East, Montréal, QC H2K 4S1</p>
+
+            </section>
+            <section>
+                <h1>Send us query by filling below details</h1>
+
+                <form action="contactus.html">
+                    <label for="name">Name : </label>
+                    <input type="text" name="name" id="name" placeholder="Please enter your name" required><br>
+                    <label for="email">Email : </label>
+                    <input type="text" name="email" id="email" placeholder="Please enter your email" required><br>
+                    <label for="subject">Subject : </label>
+                    <input type="text" name="subject" id="subject" placeholder="Please enter subject" required><br>
+                    <label for="message">Message : </label>
+                    <textarea name="message" id="message" cols="50" rows="5" placeholder="Enter your message"></textarea><br>
+                    <button type="submit">Submit</button>
+                </form>
+
+            </section>
+
+        </div>
+    </main>
+    <footer>
+        <section>
+            <h1>Incredible India</h1>
+            <h2>Tourism Guide</h2>
+            <p>2020 All Rights Reserved.</p>
+        </section>
+        <section>
+            <h1>Our Mission</h1>
+
+            <p>Our motto is to provide a convenient path of information to the world about Indian monuments and attractive places of all our states. India have rich heritage and culture and with the help of this website, we provide required details and guidance about diverse culture..</p>
+        </section>
+        <section>
+            <h1>Social Links</h1>
+            <p>
+                <a href="https://www.facebook.com/"><img src="assets/images/fb.png" alt=""></a>
+                <a href="https://www.instagram.com/"><img src="assets/images/insta.png" alt=""></a>
+                <a href="https://www.twitter.com/"><img src="assets/images/twitter.png" alt=""></a>
+                <a href="https://www.youtube.com/"><img src="assets/images/youtube.png" alt=""></a>
+            </p>
+
+        </section>
+    </footer>
+    <script>
+        function myFunction() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+                x.className += " responsive";
+            } else {
+                x.className = "topnav";
+            }
+        }
+    </script>
+</body></html>
